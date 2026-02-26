@@ -1,0 +1,22 @@
+"Oropharynx & Tonsil"
+"SEER 5-Year Relative Survival Rates, 2015-2021"
+"By Sex, All Races / Ethnicities, All Ages, All Stages"
+
+"Sex","5-Year Relative Survival (%)","Lower 95% C.I.","Upper 95% C.I."
+"Female","71.1","69.2","72.8"
+"Male","74.8","74.0","75.6"
+
+
+"Data Source:"
+"-SEER Incidence Data, November 2024 Submission (1975-2022), SEER 21 registries [https://seer.cancer.gov/registries/terms.html] (excluding Illinois)."
+"-Expected Survival Life Tables [https://seer.cancer.gov/expsurvival/] by Socio-Economic Standards."
+"Methodology:"
+"-The five-year survival rates are calculated using monthly intervals."
+"Race/Ethnicity Coding:"
+"-For more details on SEER race/ethnicity groupings, please see Race and Hispanic Ethnicity Changes [https://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/]."
+"-Incidence data for Hispanics and Non-Hispanics are based on the NAACCR Hispanic Latino Identification Algorithm (NHIA)."
+"-Rates for American Indians/Alaska Natives only include cases that are in a Purchased/Referred Care Delivery Area (PRCDA)."
+"Cancer Site Coding:"
+"-See SEER*Explorer Cancer Site Definitions [https://seer.cancer.gov/statistics-network/explorer/cancer-sites.html] for details about the cancer site coding used for SEER Incidence data."
+"-Stage at diagnosis is calculated using the Combined Summary Stage (2004+) recode, created from SEER Combined Summary Stage 2000 (2004-2017) & Derived Summary Stage 2018 (2018+). For more information, see the SEER documentation [https://seer.cancer.gov/seerstat/variables/seer/lrd-stage]."
+Created by https://seer.cancer.gov/statistics-network/explorer/ on Thu Feb 26 2026.

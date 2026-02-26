@@ -1,0 +1,27 @@
+"Squamous Cell Carcinoma of the Lung and Bronchus"
+"Recent Trends in SEER Relative Survival Rates, 2000-2021"
+"By Sex, 5-year Relative Survival, All Races / Ethnicities, All Ages, All Stages"
+
+"Regression Line Segment Trends (shown on graph)"
+"Sex","Average Absolute Change in 5-year Relative Survival Estimates ","Average Absolute Change in 5-year Relative Survival Estimates ","Average Absolute Change in 5-year Relative Survival Estimates ","Average Absolute Change in 5-year Relative Survival Estimates ","Average Absolute Change in 5-year Relative Survival Estimates "
+"Sex","Year Range","Average Absolute Change","Lower 95% C.I.","Upper 95% C.I.","Direction"
+"Female","2000-2013","0.3","0.2","0.4","Rising"
+"Female","2013-2021","1.2","1.0","1.4","Rising"
+"Male","2000-2005","0.5","0.3","0.7","Rising"
+"Male","2005-2012","0.0","-0.1","0.2","Not Significant"
+"Male","2012-2021","1.1","0.9","1.2","Rising"
+
+
+"Data Source:"
+"-SEER Incidence Data, November 2024 Submission (1975-2022), SEER 21 registries [https://seer.cancer.gov/registries/terms.html] (excluding Illinois)."
+"-Expected Survival Life Tables [https://seer.cancer.gov/expsurvival/] by Socio-Economic Standards."
+"Methodology:"
+"-The relative survival rates are calculated using annual intervals."
+"-The trend's direction is 'Rising' when the entire 95% confidence interval (C.I.) is above 0, 'Falling' when the entire 95% C.I. is lower than 0, otherwise, the trend is labelled as 'Not Significant'."
+"-The JPSurv (Joinpoint Survival Model) [https://analysistools.cancer.gov/jpsurv/] Software finds location and number of joinpoints (years of diagnosis at which survival trends have changed) that best fit the data. The estimates in this graph/table, use annual relative survival data with up to 10 years of follow-up for cancer patients diagnosed at each calendar year from 2000 through 2021. To summarize the trends in each segment between joinpoints, we use the average absolute change in survival (AAC_S). The AAC_S represents the average percentage points difference of cancer survival for people diagnosed in one calendar year compared to the prior year. For example, a 5-year survival increase from 50% to 60% for people diagnosed in 2000 versus 2010, represents a total increase of 10 percentage points in 10 years and an AAC_S of 1 percentage (survival) points for people diagnosed in a year compared to the previous during 2000 and 2010."
+"Race/Ethnicity Coding:"
+"-For more details on SEER race/ethnicity groupings, please see Race and Hispanic Ethnicity Changes [https://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/]."
+"Cancer Site Coding:"
+"-See SEER*Explorer Cancer Site Definitions [https://seer.cancer.gov/statistics-network/explorer/cancer-sites.html] for details about the cancer site coding used for SEER Incidence data."
+"-Stage at diagnosis is calculated using the Combined Summary Stage (2004+) recode, created from SEER Combined Summary Stage 2000 (2004-2017) & Derived Summary Stage 2018 (2018+). For more information, see the SEER documentation [https://seer.cancer.gov/seerstat/variables/seer/lrd-stage]."
+Created by https://seer.cancer.gov/statistics-network/explorer/ on Thu Feb 26 2026.

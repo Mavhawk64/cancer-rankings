@@ -1,0 +1,34 @@
+"Esophagus"
+"Recent Trends in U.S. Age-Adjusted Mortality Rates, 2000-2023"
+"By Sex, All Races / Ethnicities, All Ages"
+
+"Regression Line Segment Trends (shown on graph)"
+"Sex","Annual Percent Change (APC) Estimates","Annual Percent Change (APC) Estimates","Annual Percent Change (APC) Estimates","Annual Percent Change (APC) Estimates","Annual Percent Change (APC) Estimates","Annual Percent Change (APC) Estimates"
+"Sex","Year Range","APC (%)","Lower 95% C.I.","Upper 95% C.I.","P-Value","Direction"
+"","","-1.6","-2.0","-1.4","<0.01","Falling"
+"","","-0.7","-1.0","0.2","0.08","Not Significant"
+"","","0.2","-0.4","1.9","0.44","Not Significant"
+"","","-1.3","-1.5","-1.1","<0.01","Falling"
+
+
+"Recent 5 and 10 Year Trends"
+"Sex","Average Annual Percent Change (AAPC) Estimates","Average Annual Percent Change (AAPC) Estimates","Average Annual Percent Change (AAPC) Estimates","Average Annual Percent Change (AAPC) Estimates","Average Annual Percent Change (AAPC) Estimates","Average Annual Percent Change (AAPC) Estimates"
+"Sex","Year Range","AAPC (%)","Lower 95% C.I.","Upper 95% C.I.","P-Value","Direction"
+"","","-0.7","-1.0","-0.4","<0.01","Falling"
+"","","-0.7","-1.0","0.1","0.07","Not Significant"
+"","","-1.3","-1.5","-1.1","<0.01","Falling"
+"","","-1.3","-1.5","-1.1","<0.01","Falling"
+
+
+"Data Source:"
+"-U.S. Mortality Data (1969-2023), National Center for Health Statistics, CDC."
+"Methodology:"
+"-Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (20 age groups - Census P25-1130)."
+"-The Annual Percent Change (APC) and Average Annual Percent Change (AAPC) estimates were calculated from the underlying rates using the Joinpoint Trend Analysis Software [https://surveillance.cancer.gov/joinpoint], Version 5.4, April 2025, National Cancer Institute using the default settings."
+"-The APC's/AAPC's direction is 'Rising' when the entire 95% confidence interval (C.I.) is above 0, 'Falling' when the entire 95% C.I. is lower than 0, otherwise, the trend is considered 'Not Significant'."
+"Race/Ethnicity Coding:"
+"-For more details on SEER race/ethnicity groupings, please see Race and Hispanic Ethnicity Changes [https://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/]."
+"-Rates for American Indians/Alaska Natives only include cases that are in a Purchased/Referred Care Delivery Area (PRCDA). "
+"Cancer Site Coding:"
+"-Cancer site cause of death is defined using the SEER Cause of Death Recode 1969+ (03/01/2018) [https://seer.cancer.gov/codrecode/1969_d03012018/index.html]."
+Created by https://seer.cancer.gov/statistics-network/explorer/ on Thu Feb 26 2026.
